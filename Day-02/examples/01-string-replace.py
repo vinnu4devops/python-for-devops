@@ -1,3 +1,3 @@
-text = "Python is awesome"
-new_text = text.replace("awesome", "great")
+text = "Shriyan is smart Boy"
+new_text = text.replace("smart", "Naughty")
 print("Modified text:", new_text)
